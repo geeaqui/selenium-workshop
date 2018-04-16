@@ -1,0 +1,1 @@
+java -Dphantomjs.binary.path=.\phantomjs.exe -jar selenium-server-standalone-3.3.1.jar -role standalone

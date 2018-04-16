@@ -1,0 +1,42 @@
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\SelProj.dll
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\SelProj.pdb
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\nunit.framework.dll
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\WebDriver.dll
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\WebDriver.Support.dll
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\nunit.framework.pdb
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\nunit.framework.xml
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\WebDriver.xml
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\WebDriver.Support.xml
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\obj\Debug\SelProj.csprojResolveAssemblyReference.cache
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\obj\Debug\SelProj.dll
+c:\users\agerald\documents\visual studio 2015\Projects\SelProj\SelProj\obj\Debug\SelProj.pdb
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\SelProj.dll
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\SelProj.pdb
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\nunit.framework.dll
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\WebDriver.dll
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\WebDriver.Support.dll
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\nunit.framework.pdb
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\nunit.framework.xml
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\WebDriver.xml
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\WebDriver.Support.xml
+C:\Users\agerald\Desktop\SelProj\SelProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\agerald\Desktop\SelProj\SelProj\obj\Debug\SelProj.csprojResolveAssemblyReference.cache
+C:\Users\agerald\Desktop\SelProj\SelProj\obj\Debug\SelProj.dll
+C:\Users\agerald\Desktop\SelProj\SelProj\obj\Debug\SelProj.pdb
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\SelProj.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\SelProj.pdb
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\nunit.framework.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\WebDriver.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\WebDriver.Support.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\nunit.framework.pdb
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\nunit.framework.xml
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\WebDriver.xml
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Debug\WebDriver.Support.xml
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Debug\SelProj.csproj.CoreCompileInputs.cache
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Debug\SelProj.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Debug\SelProj.pdb
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Debug\SelProj.csprojResolveAssemblyReference.cache

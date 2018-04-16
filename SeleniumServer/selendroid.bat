@@ -1,0 +1,1 @@
+java -jar selendroid-standalone-0.17.0-with-dependencies.jar -hub http://ezl23626:4444/grid/register

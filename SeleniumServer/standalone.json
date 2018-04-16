@@ -1,0 +1,33 @@
+{
+	"capabilities":
+    [        
+        {
+			"browserName": "firefox",
+			"maxInstances": 1,
+			"seleniumProtocol": "WebDriver"
+		},
+		{
+			"browserName": "chrome",
+			"maxInstances": 1,
+			"seleniumProtocol": "WebDriver"
+        },
+        {
+			"browserName": "internet explorer",
+			"maxInstances": 1,
+			"seleniumProtocol": "WebDriver"
+        },
+        {
+         
+			"browserName": "htmlunit",
+			"maxInstances": 1,
+			"version": "firefox",
+			"seleniumProtocol": "WebDriver"
+        }
+    ],
+	"maxSession": 1,
+    "port": 5000,
+    "register": true,
+    "registerCycle": 5000,
+    "hub": "http://127.0.0.1:4000"
+  }
+}

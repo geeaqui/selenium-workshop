@@ -1,0 +1,14 @@
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\SelProj.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\SelProj.pdb
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\nunit.framework.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\WebDriver.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\WebDriver.Support.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\nunit.framework.pdb
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\nunit.framework.xml
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\WebDriver.xml
+C:\Users\geeKy\Desktop\SelProj\SelProj\bin\Release\WebDriver.Support.xml
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Release\SelProj.csprojResolveAssemblyReference.cache
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Release\SelProj.csproj.CoreCompileInputs.cache
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Release\SelProj.dll
+C:\Users\geeKy\Desktop\SelProj\SelProj\obj\Release\SelProj.pdb
